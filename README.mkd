@@ -1,0 +1,5 @@
+So much new stuff
+-----------------
+This is mostly code taken from `https://thrift.apache.org/tutorial/`. This project is mostly me playing with multi pom maven projects and learning what the output of `mvn help:effective-pom` means.
+
+`http://books.sonatype.com/mvnex-book/` has been a good resources.
