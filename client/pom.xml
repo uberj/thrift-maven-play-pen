@@ -12,4 +12,16 @@
   <version>1.0-SNAPSHOT</version>
   <name>client</name>
   <url>http://maven.apache.org</url>
+  <dependencies>
+      <dependency>
+          <groupId>com.uberj.thrifttest.tutorial</groupId>
+          <artifactId>tutorial</artifactId>
+          <version>1.0-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+          <groupId>com.uberj.thrifttest.shared</groupId>
+          <artifactId>shared</artifactId>
+          <version>1.0-SNAPSHOT</version>
+      </dependency>
+  </dependencies>
 </project>

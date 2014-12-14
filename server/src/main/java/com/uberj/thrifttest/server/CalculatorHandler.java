@@ -16,6 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+package com.uberj.thrifttest.server;
 
 import org.apache.thrift.TException;
 

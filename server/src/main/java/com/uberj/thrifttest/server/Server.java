@@ -1,6 +1,8 @@
 /**
+ *
  * Created by uberj on 12/12/14.
  */
+package com.uberj.thrifttest.server;
 
 import org.apache.thrift.server.TServer;
 import org.apache.thrift.server.TServer.Args;
@@ -13,8 +15,9 @@ import org.apache.thrift.transport.TSSLTransportFactory.TSSLTransportParameters;
 
 // Generated code
 import tutorial.*;
+import tutorial.Calculator;
+import com.uberj.thrifttest.server.CalculatorHandler;
 import shared.*;
-
 import java.util.HashMap;
 
 public class Server {
